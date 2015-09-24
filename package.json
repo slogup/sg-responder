@@ -1,6 +1,6 @@
 {
   "name": "sg-responder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "sg-responder for node.js",
   "keywords": [],
   "author": "hwaranglee <dev@slogup.com>",
