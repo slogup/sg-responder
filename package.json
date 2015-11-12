@@ -1,10 +1,10 @@
 {
   "name": "sg-responder",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "sg-responder for node.js",
   "keywords": [],
-  "author": "hwaranglee <dev@slogup.com>",
-  "repository": { "type": "git", "url": "git://github.com/slogup/sg-responder.git" },
+  "author": "hwaranglee <ceo@slogup.com>",
+  "repository": { "type": "git", "url": "git://github.com/teamslogup/sg-responder.git" },
   "dependencies": {},
   "devDependencies": {
     "mocha": "*",
